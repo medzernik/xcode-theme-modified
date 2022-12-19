@@ -3,7 +3,7 @@
   "displayName": "Xcode Theme Custom",
   "description": "Xcode Theme (medzernik version), ported to VS Code",
   "icon": "images/icon.png",
-  "version": "4.2.1",
+  "version": "4.2.4",
   "scripts": {
     "build": "vsce package"
   },

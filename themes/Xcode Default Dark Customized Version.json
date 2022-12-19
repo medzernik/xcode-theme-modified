@@ -12,7 +12,7 @@
     "debugIcon.breakpointForeground": "#007aff",
     "diffEditor.insertedTextBackground": "#3cff5518",
     "diffEditor.removedTextBackground": "#ff504418",
-    "editor.background": "#1F1F24",
+    "editor.background": "#292a30",
     "editor.findMatchBackground": "#fffb00",
     "editor.findMatchHighlightBackground": "#545558",
     "editor.foreground": "#DFDFE0",
@@ -104,7 +104,7 @@
     {
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "7f8c99"
+        "foreground": "#7f8c99"
       }
     },
     {
@@ -116,7 +116,7 @@
     {
       "scope": ["constant.numeric", "keyword.other.unit", "support.constant"],
       "settings": {
-        "foreground": "ffa245"
+        "foreground": "#ffa245"
       }
     },
     {
@@ -142,7 +142,7 @@
         "punctuation.definition.preprocessor"
       ],
       "settings": {
-        "foreground": "#FFA14F"
+        "foreground": "#4eade5"
       }
     },
     {
@@ -235,7 +235,7 @@
         "meta.interface"
       ],
       "settings": {
-        "foreground": "#65dfff"
+        "foreground": "#ffc66d"
       }
     },
     {
