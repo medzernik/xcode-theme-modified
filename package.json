@@ -1,22 +1,22 @@
 {
-  "name": "xcode-12-theme",
-  "displayName": "Xcode Theme",
-  "description": "Xcode Theme, ported to VS Code",
+  "name": "xcode-12-theme-medzernik",
+  "displayName": "Xcode Theme Custom",
+  "description": "Xcode Theme (medzernik version), ported to VS Code",
   "icon": "images/icon.png",
-  "version": "4.1.0",
+  "version": "4.2.1",
   "scripts": {
     "build": "vsce package"
   },
   "engines": {
     "vscode": "^1.52.0"
   },
-  "publisher": "mateocerquetella",
+  "publisher": "medzernik",
   "categories": [
     "Themes"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/MateoCerquetella/xcode-theme"
+    "url": "https://github.com/medzernik/xcode-theme-modified"
   },
   "contributes": {
     "themes": [

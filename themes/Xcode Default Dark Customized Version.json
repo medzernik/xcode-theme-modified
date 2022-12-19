@@ -12,7 +12,7 @@
     "debugIcon.breakpointForeground": "#007aff",
     "diffEditor.insertedTextBackground": "#3cff5518",
     "diffEditor.removedTextBackground": "#ff504418",
-    "editor.background": "#323333",
+    "editor.background": "#1F1F24",
     "editor.findMatchBackground": "#fffb00",
     "editor.findMatchHighlightBackground": "#545558",
     "editor.foreground": "#DFDFE0",
@@ -193,7 +193,7 @@
         "meta.method.declaration"
       ],
       "settings": {
-        "foreground": "#75c2b3"
+        "foreground": "#daca77"
       }
     },
     {
